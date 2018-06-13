@@ -1,4 +1,3 @@
-# portpolio-tutorial
-# youtube react tutorial mostly for styled components
+# portpolio-tutorial (click below link to view)
 
 [Portpolio](https://sssssqew.github.io/portpolio-tutorial/#/aboutMe)
